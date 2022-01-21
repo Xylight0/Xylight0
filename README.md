@@ -3,8 +3,6 @@
 [![Website](https://img.shields.io/website?label=Xylight.com&style=for-the-badge&url=https%3A%2F%2Fgoogle.com)](https://google.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Xylight0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-<br>
-
 # I'm a 20 year old student and a full stack developer. My passion is coding and learning something new every day. <br> <br> I've been programming since I was 14 years old
 
 
