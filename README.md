@@ -14,7 +14,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me greppn@gmail.com
 
-### Connect with me:
+### Connect with me: (in progress)
 
 <img alt="codeSTACKr.com" width="22px" style="float:left; padding-right:20px; " src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><space>
 <img alt="codeSTACKr | YouTube" width="22px" style="float:left; padding-right:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
