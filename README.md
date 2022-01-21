@@ -1,9 +1,43 @@
-- 👋 Hi, I’m Nico aka @Xylight0
-- 👀 I’m interested in WebDev (Full Stack) + creating a promising github profile
-- 🌱 I’m currently learning REACT + LINUX
+## Hi there, I'm Nico(las) - aka Xylight0
+
+[![Website](https://img.shields.io/website?label=Xylight.com&style=for-the-badge&url=https%3A%2F%2Fgoogle.com)](https://google.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Xylight0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
+<br>
+
+# I'm a 20 year old student and a full stack developer. My passion is coding and learning something new every day. <br> <br> I've been programming since I was 14 years old
+
+
+
+- 👀 I’m interested in WebDev (Full Stack) especially web APPs
+- 🌱 I’m currently learning REACT (everything)
+- 🔭 We will be releasing our first web APP soon (me + friend)
+- 👯 I’m looking to collaborate with other motivated and goal-oriented people
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me greppn@gmail.com
 
-<!---
-Xylight0/Xylight0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect with me:
+
+<img alt="codeSTACKr.com" width="22px" style="float:left; padding-right:20px; " src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><space>
+<img alt="codeSTACKr | YouTube" width="22px" style="float:left; padding-right:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img alt="codeSTACKr | Twitter" width="22px" style="float:left; padding-right:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img alt="codeSTACKr | LinkedIn" width="22px" style="float:left; padding-right:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img alt="codeSTACKr | Instagram" width="22px" style="float:left; padding-right:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+<br />
+
+### Languages and Tools:
+
+<img alt="Visual Studio Code" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="HTML5" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="Sass" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="JavaScript" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="Java" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img alt="React" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="Node.js" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img alt="MySQL" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt="MongoDB" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img alt="Git" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img alt="GitHub" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Terminal" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
