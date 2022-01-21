@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xylight0 aka Nico
+- 👋 Hi, I’m Nico aka @Xylight0
 - 👀 I’m interested in WebDev (Full Stack) + creating a promising github profile
 - 🌱 I’m currently learning REACT + LINUX
 - 📫 How to reach me greppn@gmail.com
