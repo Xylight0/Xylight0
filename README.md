@@ -1,4 +1,4 @@
-## Hi there, I'm Nico(las) - aka Xylight0
+## Hi there, I'm Nico(las)
 
 # I'm a 20 year old student from germany. My passion is coding and learning something new every day. <br> <br> I've been programming since I was 14 years old
 
