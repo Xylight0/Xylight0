@@ -11,15 +11,15 @@
 - 📫 How to reach me greppn@gmail.com
 
 
-### Connect with me: (in progress)
+<!--- ### Connect with me: (in progress)
 
 <img alt="codeSTACKr.com" width="22px" style="float:left; padding-right:20px; " src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><space>
 <img alt="codeSTACKr | YouTube" width="22px" style="float:left; padding-right:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img alt="codeSTACKr | Twitter" width="22px" style="float:left; padding-right:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img alt="codeSTACKr | LinkedIn" width="22px" style="float:left; padding-right:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img alt="codeSTACKr | Instagram" width="22px" style="float:left; padding-right:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-### Languages and Tools:
+--->
+### Languages and Tools: 
 
 <img align="left" alt="Visual Studio Code" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
