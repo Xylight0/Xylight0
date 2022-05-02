@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning REACT (everything)
 - 🔭 We will be releasing our first web APP soon (me + friend)
 - 👯 I’m looking to collaborate with other motivated and goal-oriented people
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me greppn@gmail.com
 
 
