@@ -1,6 +1,6 @@
 ## Hi there, I'm Nico(las)
 
-# I'm a 20 year old student from germany. My passion is coding and learning something new every day.
+# 22 year old student from germany. My passion is coding and learning something new every day. Currently in Taipei at the NTUT.
 
 
 
