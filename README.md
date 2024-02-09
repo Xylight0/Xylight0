@@ -5,8 +5,8 @@
 
 
 - 👀 I’m interested in WebDev (Full Stack) especially web APPs
-- 🌱 I’m currently learning REACT (everything)
-- 🔭 We will be releasing our first web APP soon (me + friend)
+- 🌱 I’m currently learning AI and ML
+- 🔭 Working everyday on personal Projects
 - 👯 I’m looking to collaborate with other motivated and goal-oriented people
 - 📫 How to reach me greppn@gmail.com
 
