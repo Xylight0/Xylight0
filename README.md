@@ -1,14 +1,13 @@
 ## Hi there, I'm Nico(las)
 
-# 22 year old student from germany. My passion is coding and learning something new every day.
+# 22-year-old student from Germany, passionate about coding and always excited to dive into new challenges.
 
 
 
-- 👀 I’m interested in WebDev (Full Stack) especially web APPs
+- 👀 I’m interested in WebDev (Full Stack)
 - 🌱 I’m currently learning AI and ML
-- 🔭 Working everyday on personal Projects
-- 👯 I’m looking to collaborate with other motivated and goal-oriented people
-- 📫 How to reach me greppn@gmail.com
+- 🔭 Working when ever I can on personal Projects
+- 📫 How to reach me: greppn@gmail.com
 
 
 <!--- ### Connect with me: (in progress)
