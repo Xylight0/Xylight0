@@ -1,6 +1,6 @@
 ## Hi there, I'm Nico(las)
 
-# 22-year-old student from Germany, passionate about coding and always excited to dive into new challenges.
+# 22-year-old student from Germany, I love coding and always excited to dive into new challenges.
 
 
 
