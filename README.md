@@ -1,4 +1,4 @@
-## Hi there, I'm Nico(las)
+## Hi there, I'm Nico
 
 # 23-year-old Master CS student from Germany.
 
