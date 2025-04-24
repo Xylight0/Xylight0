@@ -5,10 +5,6 @@
 - 🔭 Working when ever I can on personal Projects
 - 📫 How to reach me: greppn@gmail.com
 
-### Languages and Tools: 
-
-<img align="left" alt="Tailwind" width="26px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-
 <br>
 
 ### Stats: 
