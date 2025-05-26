@@ -104,12 +104,6 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Xylight0&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 </p>
-<p align="center">
-  <a href="https://github.com/Xylight0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xylight0&layout=compact&langs_count=8&theme=github_dark"/>
-   
-  </a>
-</p>
 
 ---
 
