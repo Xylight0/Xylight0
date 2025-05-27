@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Developer from Germany 🌍.<br> From mess to masterpiece - building clean code with intent 💻  <br> Fueled by curiosity and creativity, I tackle complex challenges head-on and turn them into intuitive, user-focused solutions.</em>
+  <em>Developer from Germany 🌍.<br> From mess to masterpiece - building clean code with intent 💻 
 </p>
 
 <p align="center">
