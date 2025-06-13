@@ -20,12 +20,12 @@
 
 ## 🚀 About Me
 
-*   👨‍💻 Wrapping up my Master’s and searching for a thesis project that pushes the limits of tech, creativity, and impact.
-*   🧠 I craft React applications loaded with features straight from imagination to implementation.
+*   👨‍💻 Wrapping up my Master’s.
+*   🧠 I craft React applications.
 *   💡 I love building interactive UIs, robust APIs, and scalable backend systems.
 *   🌱 I’m currently diving deeper into Scalable Architectures, Modular Black Box Architectures, AI/ML integration.
 *   👯 I’m looking to collaborate on innovative open-source projects or exciting opportunities.
-*   ⚡ Fun fact: I used to live on a tiny island with 200 residents and managed to keep the CI/CD pipeline running.
+*   ⚡ Fun fact: I’ve lived on islands with 16 and 9,575 people per km² - basically, from empty beaches to packed subway vibes.
 
 ---
 
