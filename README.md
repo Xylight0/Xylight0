@@ -111,7 +111,7 @@
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of something amazing. Feel free to reach out!
 
-*   💬 **Connect with me on [LinkedIn](https://linkedin.com/in/[your-linkedin-username])**
+*   💬 **Connect with me on [LinkedIn]([https://linkedin.com/in/[your-linkedin-username]](https://www.linkedin.com/in/nicolas-grepp-a79699239/)**
 *   📧 **Shoot me an email at greppn@gmail.com**
 
 </br>
