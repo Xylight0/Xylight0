@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Developer from Germany 🌍.<br> From mess to masterpiece - building clean code with intent 💻 
+  <em>Developer from Germany 🌍
 </p>
 
 <p align="center">
@@ -20,8 +20,7 @@
 
 ## 🚀 About Me
 
-*   👨‍💻 Wrapping up my Master’s.
-*   🧠 I craft React applications.
+*   🧠 I craft React (Native) applications.
 *   💡 I love building interactive UIs, robust APIs, and scalable backend systems.
 *   🌱 I’m currently diving deeper into Scalable Architectures, Modular Black Box Architectures, AI/ML integration.
 *   👯 I’m looking to collaborate on innovative open-source projects or exciting opportunities.
