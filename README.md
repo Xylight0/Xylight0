@@ -55,11 +55,11 @@
 
 
 ---
---->
+
 
 ## ✨ My Projects
 
- <!--<table>
+<table>
   <tr>
     <td width="50%">
       <h3 align="center">Project Name 1</h3>
@@ -96,7 +96,7 @@
       </p>
     </td>
   </tr>
-</table>-->
+</table>
 
 ➡️ [See more of my projects...](https://github.com/Xylight0?tab=repositories)
 
@@ -123,6 +123,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   Thanks for visiting my profile! Have a great day! ✨
 </p>
 
-<!---<p align="center">
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Xylight0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>-->
+</p>
+--->
