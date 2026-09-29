@@ -18,13 +18,14 @@
 
 ---
 
-## 🚀 About Me
+<!-- ## 🚀 About Me
 
 *   🧠 I craft React (Native) applications.
 *   💡 I love building interactive UIs, robust APIs, and scalable backend systems.
 *   🌱 I’m currently diving deeper into Scalable Architectures, Modular Black Box Architectures, AI/ML integration.
 *   👯 I’m looking to collaborate on innovative open-source projects or exciting opportunities.
 *   ⚡ Fun fact: I’ve lived on islands with 16 and 9,575 people per km² - basically, from empty beaches to packed subway vibes.
+
 
 ---
 
@@ -51,6 +52,7 @@
   <img src="https://img.shields.io/badge/Jest-3A8AC6?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
 
 </p>
+--->
 
 ---
 
