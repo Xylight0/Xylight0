@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <em>Developer from Germany 🌍
 </p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-<!-- ## 🚀 About Me
+ ## 🚀 About Me
 
 *   🧠 I craft React (Native) applications.
 *   💡 I love building interactive UIs, robust APIs, and scalable backend systems.
@@ -52,9 +52,10 @@
   <img src="https://img.shields.io/badge/Jest-3A8AC6?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
 
 </p>
---->
+
 
 ---
+--->
 
 ## ✨ My Projects
 
